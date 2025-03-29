@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+# Name :Dharanya.N
+# Reg no: 212223230044
 
 ## Aim:
 
